@@ -3,7 +3,7 @@
       <div class="max-w-md mx-auto pt-12 px-4 sm:max-w-7xl sm:px-6 lg:pt-16 lg:px-8">
         <div class="xl:grid xl:grid-cols-3 xl:gap-8">
           <div class="space-y-8 xl:col-span-1">
-            <img class="h-20" src="assets/logo.png" alt="logo"></img>
+            <img class="h-20" src="/assets/logo.png" alt="logo"></img>
             <h3 class="text-gray-400 text-base">MACROMA STUDIO</h3>
             <p class="text-gray-400 text-base">Jadikan pendidikan jalan jihadmu</p>
             <div class="flex space-x-6">
@@ -49,19 +49,19 @@
                 <h3 class="text-sm font-semibold text-gray-200 tracking-wider uppercase">Solusi</h3>
                 <ul role="list" class="mt-4 space-y-4">
                   <li>
-                    <a href="#" class="text-base text-gray-400 hover:text-gray-900"> Pemasaran</a>
+                    <a href="#" class="text-base text-gray-400 hover:text-gray-500"> Pemasaran</a>
                   </li>
 
                   <li>
-                    <a href="#" class="text-base text-gray-400 hover:text-gray-900"> Analisis </a>
+                    <a href="#" class="text-base text-gray-400 hover:text-gray-500"> Analisis </a>
                   </li>
 
                   <li>
-                    <a href="#" class="text-base text-gray-400 hover:text-gray-900"> Penjualan </a>
+                    <a href="#" class="text-base text-gray-400 hover:text-gray-500"> Penjualan </a>
                   </li>
 
                   <li>
-                    <a href="#" class="text-base text-gray-400 hover:text-gray-900">Wawasan </a>
+                    <a href="#" class="text-base text-gray-400 hover:text-gray-500">Wawasan </a>
                   </li>
                 </ul>
               </div>
@@ -69,19 +69,19 @@
                 <h3 class="text-sm font-semibold text-gray-200 tracking-wider uppercase">Bantuan</h3>
                 <ul role="list" class="mt-4 space-y-4">
                   <li>
-                    <a href="#" class="text-base text-gray-400 hover:text-gray-900"> Harga </a>
+                    <a href="#" class="text-base text-gray-400 hover:text-gray-500"> Harga </a>
                   </li>
 
                   <li>
-                    <a href="#" class="text-base text-gray-400 hover:text-gray-900"> Dokumentasi </a>
+                    <a href="#" class="text-base text-gray-400 hover:text-gray-500"> Dokumentasi </a>
                   </li>
 
                   <li>
-                    <a href="#" class="text-base text-gray-400 hover:text-gray-900"> Petunjuk </a>
+                    <a href="#" class="text-base text-gray-400 hover:text-gray-500"> Petunjuk </a>
                   </li>
 
                   <li>
-                    <a href="#" class="text-base text-gray-400 hover:text-gray-900"> Status API </a>
+                    <a href="#" class="text-base text-gray-400 hover:text-gray-500"> Status API </a>
                   </li>
                 </ul>
               </div>
@@ -91,23 +91,23 @@
                 <h3 class="text-sm font-semibold text-gray-200 tracking-wider uppercase">Perusahaan</h3>
                 <ul role="list" class="mt-4 space-y-4">
                   <li>
-                    <a href="#" class="text-base text-gray-400 hover:text-gray-900"> Tentang </a>
+                    <a href="#" class="text-base text-gray-400 hover:text-gray-500"> Tentang </a>
                   </li>
 
                   <li>
-                    <a href="#" class="text-base text-gray-400 hover:text-gray-900"> Blog </a>
+                    <a href="#" class="text-base text-gray-400 hover:text-gray-500"> Blog </a>
                   </li>
 
                   <li>
-                    <a href="#" class="text-base text-gray-400 hover:text-gray-900"> Pekerjaan </a>
+                    <a href="#" class="text-base text-gray-400 hover:text-gray-500"> Pekerjaan </a>
                   </li>
 
                   <li>
-                    <a href="#" class="text-base text-gray-400 hover:text-gray-900"> Berita </a>
+                    <a href="#" class="text-base text-gray-400 hover:text-gray-500"> Berita </a>
                   </li>
 
                   <li>
-                    <a href="#" class="text-base text-gray-400 hover:text-gray-900"> Partner </a>
+                    <a href="#" class="text-base text-gray-400 hover:text-gray-500"> Partner </a>
                   </li>
                 </ul>
               </div>
@@ -115,15 +115,15 @@
                 <h3 class="text-sm font-semibold text-gray-200 tracking-wider uppercase">Iktisar</h3>
                 <ul role="list" class="mt-4 space-y-4">
                   <li>
-                    <a href="#" class="text-base text-gray-400 hover:text-gray-900"> kleim </a>
+                    <a href="#" class="text-base text-gray-400 hover:text-gray-500"> kleim </a>
                   </li>
 
                   <li>
-                    <a href="#" class="text-base text-gray-400 hover:text-gray-900"> Privasi </a>
+                    <a href="#" class="text-base text-gray-400 hover:text-gray-500"> Privasi </a>
                   </li>
 
                   <li>
-                    <a href="#" class="text-base text-gray-400 hover:text-gray-900"> Peraturan </a>
+                    <a href="#" class="text-base text-gray-400 hover:text-gray-500"> Peraturan </a>
                   </li>
                 </ul>
               </div>
